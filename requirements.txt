@@ -1,0 +1,8 @@
+langchain
+langchain_core
+langchain_community
+ipykernel
+validators
+youtube_transcript_api
+streamlit
+langchain_groq
