@@ -6,3 +6,4 @@ validators
 youtube_transcript_api
 streamlit
 langchain_groq
+wikipedia
